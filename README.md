@@ -2,7 +2,7 @@
 
 > *“A software engineering student passionate about building practical, meaningful solutions with technology.”*
 
-Welcome! I’m **Honnete Nishimwe**, a Software Engineering student with a strong interest in turning ideas into real, working software. I enjoy learning how systems work and writing clean code.
+Welcome! I’m **Honnete Nishimwe**, a Software Engineering student with a strong interest in turning ideas into real solutions that enrich human lives. I enjoy learning how systems work and writing clean code.
 
 ---
 
